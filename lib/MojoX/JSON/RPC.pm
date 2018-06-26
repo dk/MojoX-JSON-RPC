@@ -2,7 +2,7 @@ package MojoX::JSON::RPC;
 
 use strict;
 
-our $VERSION = '0.10';
+our $VERSION = '0.11';
 
 1;
 
@@ -138,5 +138,9 @@ of merchantibility and fitness for a particular purpose.
 
 This program is free software, you can redistribute it and/or modify it
 under the terms of the Artistic License version 2.0.
+
+=head1 SUPPORT
+
+Dmitry Karasik <dmitry@karasik.eu.org>
 
 =cut
