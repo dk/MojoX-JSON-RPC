@@ -1,0 +1,15 @@
+Makefile.PL
+LICENSE
+lib/MojoX/JSON/RPC/Dispatcher/Method.pm
+lib/MojoX/JSON/RPC/Client.pm
+lib/MojoX/JSON/RPC/Dispatcher.pm
+lib/MojoX/JSON/RPC/Service.pm
+lib/MojoX/JSON/RPC.pm
+lib/Mojolicious/Plugin/JsonRpcDispatcher.pm
+MANIFEST
+t/basic.t
+t/lite_app.t
+t/exception.t
+t/lib/TestUts.pm
+README.pod
+Changes
